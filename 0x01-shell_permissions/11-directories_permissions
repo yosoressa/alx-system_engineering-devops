@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type d -exec chmod 755{}+12 mkdir -m 751 my_dir
+find ./ -type d -exec chmod 755{}+
